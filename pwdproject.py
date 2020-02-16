@@ -1,14 +1,14 @@
 import re
 
                             #This code was made in Python 3.7 
-                            #and was maked by HamzaOPLEX 
+                            #coded by HamzaOPLEX 
                             #Facebook : facebook.com/Hamza0plex
                             #Website : www.freetechways.xyz
                             #Youtube : https://www.youtube.com/channel/UCbeSJJWGNppv5decBIjsfuw
                             #github : github.com/HamzaOPLEX
 
 # for use just import the python file in your script ( import pwdproject )
-# then use it : pwdproject.password(#here the password variable or string)
+# then use it : pwdproject.password(#here put the password variable or string)
 
 def password(pass_enter) :
     a = "try again because a Strong Password is  : \n\t1-contain 8 characters \n\t2-First character must be Uppercase\n\t3-other character must be even upper or lowercase\n\t4-at least one digit"
